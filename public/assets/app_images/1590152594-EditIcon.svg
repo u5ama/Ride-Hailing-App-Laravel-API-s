@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#0672ba}
+        </style>
+    </defs>
+    <g id="prefix__Edit_Icon" data-name="Edit Icon" transform="translate(41.943 -10.638)">
+        <g id="prefix__Add_Icon" data-name="Add Icon" transform="translate(-41.943 10.638)">
+            <path id="prefix__Rectangle_1862" d="M0 0H24V24H0z" data-name="Rectangle 1862" style="opacity:0;fill:#0672ba"/>
+            <g id="prefix__Group_3603" data-name="Group 3603" transform="translate(2.658 3.197)">
+                <path id="prefix__Path_12441" d="M23.373 114.3H6.338a.641.641 0 0 0-.638.638.652.652 0 0 0 .638.638h17.05a.641.641 0 0 0 .638-.638.655.655 0 0 0-.653-.638z" class="prefix__cls-2" data-name="Path 12441" transform="translate(-5.684 -97.577)"/>
+                <path id="prefix__Path_12442" d="M5.616 17.971L5.6 21.007a.659.659 0 0 0 .187.467.624.624 0 0 0 .452.187l3.021-.016a.624.624 0 0 0 .452-.187l10.431-10.432a.658.658 0 0 0 0-.919l-2.99-3.021a.658.658 0 0 0-.919 0l-2.087 2.1L5.8 17.519a.694.694 0 0 0-.184.452zM16.7 8.457l2.1 2.1-1.183 1.183-2.1-2.1L16.7 8.457zm-9.792 9.794l7.692-7.692 2.1 2.1-7.69 7.679-2.118.016z" class="prefix__cls-2" data-name="Path 12442" transform="translate(-5.6 -6.9)"/>
+            </g>
+        </g>
+    </g>
+</svg>

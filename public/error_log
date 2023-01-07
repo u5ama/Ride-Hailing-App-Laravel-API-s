@@ -1,0 +1,10 @@
+[06-Jul-2020 08:51:36 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/rydezilla/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[06-Jul-2020 08:51:38 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/rydezilla/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[06-Jul-2020 20:17:21 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\RydeController, because the name is already in use in /home/rydezilla/public_html/storage/framework/views/2624d16bf4902ad998980cb6155d9ef310a9cdca.php on line 287
+[06-Jul-2020 20:18:00 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\RydeController, because the name is already in use in /home/rydezilla/public_html/storage/framework/views/2624d16bf4902ad998980cb6155d9ef310a9cdca.php on line 0
+[06-Jul-2020 20:19:10 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\RydeController, because the name is already in use in /home/rydezilla/public_html/storage/framework/views/2624d16bf4902ad998980cb6155d9ef310a9cdca.php on line 0
+[06-Jul-2020 20:19:24 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\RydeController, because the name is already in use in /home/rydezilla/public_html/storage/framework/views/2624d16bf4902ad998980cb6155d9ef310a9cdca.php on line 0
+[10-Aug-2020 19:00:11 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/ridewhipp/public_html/ridewhip/app/Http/Controllers/Api/V1/UserController.php on line 27
+[17-Aug-2020 08:47:49 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ridewhipp/public_html/ridewhip/app/Http/Controllers/Company/CompanyController.php on line 66
+[25-Aug-2020 11:07:41 UTC] PHP Warning:  POST Content-Length of 9821208 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Aug-2020 12:55:26 UTC] PHP Warning:  POST Content-Length of 17609335 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

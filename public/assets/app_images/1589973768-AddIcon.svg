@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#0672ba;stroke-linecap:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Add_Icon" data-name="Add Icon" transform="translate(-285 -17)">
+        <path id="prefix__Rectangle_1862" d="M0 0H24V24H0z" data-name="Rectangle 1862" transform="translate(285 17)" style="fill:#fff;opacity:0"/>
+        <g id="prefix__Add_icon-2" data-name="Add icon" transform="rotate(45 122.898 369.517)">
+            <path id="prefix__Path_1105" d="M0 0v15.691" class="prefix__cls-2" data-name="Path 1105" transform="rotate(-45)"/>
+            <path id="prefix__Path_1106" d="M0 0v15.037" class="prefix__cls-2" data-name="Path 1106" transform="rotate(-135 2.561 5.308)"/>
+        </g>
+    </g>
+</svg>

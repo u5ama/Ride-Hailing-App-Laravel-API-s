@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Others_Icon" width="35" height="35" data-name="Others Icon" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <rect id="prefix__Rectangle_1852" width="35" height="35" data-name="Rectangle 1852" rx="10" style="fill:#0672ba"/>
+    <g id="prefix__Group_3323" data-name="Group 3323" transform="translate(-65 -17)">
+        <path id="prefix__Path_12997" d="M88.7 29.352a1.779 1.779 0 00-1.258-1.7 1.772 1.772 0 00-2.4-2.4 1.772 1.772 0 00-3.391 0 1.772 1.772 0 00-2.4 2.4 1.772 1.772 0 000 3.391 1.773 1.773 0 002.4 2.4 1.772 1.772 0 003.391 0 1.772 1.772 0 002.4-2.4 1.778 1.778 0 001.258-1.691zm-5.352 2.23a2.23 2.23 0 112.23-2.23 2.231 2.231 0 01-2.226 2.23z" class="prefix__cls-2" data-name="Path 12997" transform="translate(-.648)"/>
+        <path id="prefix__Path_12998" d="M81.813 44.655v1.833H83.6V45.6A11.6 11.6 0 0072 34a10.7 10.7 0 009.813 10.655z" class="prefix__cls-2" data-name="Path 12998" transform="translate(0 -1.08)"/>
+        <path id="prefix__Path_12999" d="M94.83 34a10.7 10.7 0 01-8.09 10.369 13.3 13.3 0 00-1.572-5.182A11.584 11.584 0 0194.83 34z" class="prefix__cls-2" data-name="Path 12999" transform="translate(-1.422 -1.08)"/>
+    </g>
+</svg>

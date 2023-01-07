@@ -1,0 +1,26 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.whipp_passenger.hi5",
+            "sha256_cert_fingerprints": [
+                "5A:5A:2A:99:A0:1F:8A:96:93:ED:6D:50:93:E8:56:3B:BD:BE:A9:84:19:B5:E2:49:B0:DD:91:AD:8D:2D:D1:3F"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.whipp_driver.hi5",
+            "sha256_cert_fingerprints": [
+                "5A:5A:2A:99:A0:1F:8A:96:93:ED:6D:50:93:E8:56:3B:BD:BE:A9:84:19:B5:E2:49:B0:DD:91:AD:8D:2D:D1:3F"
+            ]
+        }
+    }
+]

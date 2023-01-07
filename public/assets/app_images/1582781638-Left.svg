@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="8" viewBox="0 0 13 8">
+    <defs>
+        <style>
+            .cls-1{fill:#0672ba}
+        </style>
+    </defs>
+    <g id="Left" transform="rotate(-90 4 4)">
+        <g id="Accessory" transform="rotate(180 4 6.5)">
+            <g id="Controls_Small_Arrow_Fw" data-name="Controls Small / Arrow / Fw">
+                <path id="Arrow" d="M0 1.371L1.393 0 8 6.5 1.393 13 0 11.629 5.214 6.5z" class="cls-1"/>
+            </g>
+        </g>
+    </g>
+</svg>

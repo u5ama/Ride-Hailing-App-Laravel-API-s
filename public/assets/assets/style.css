@@ -1,0 +1,51 @@
+body{
+    background-color: #F4F4F4 !important;
+}
+.text-style{
+    color: #E52A27;
+    font-size: 12px;
+    font-weight: bold;
+}
+.card-box{
+    border-radius: 20px !important;
+}
+.card-border{
+    border-radius: 10px !important;
+}
+.count-style{
+    padding-top: 5px !important;
+    font-size: 14px !important;
+    padding-bottom: 5px !important;
+}
+.count-style-social{
+    font-size: 10px !important;
+    padding: 5px !important;
+    color: #E52A27 !important;
+}
+.alert-danger{
+    font-size: 14px !important;
+}
+.card-body-box{
+    padding: 5px !important;
+}
+.social-images{
+    padding-top: 3px !important;
+    width: 17px !important;
+}
+.social-image-fb{
+    padding-top: 0px !important;
+    width: 10px !important;
+}
+.announcement-post-image{
+    width: 40% !important;
+    padding: 10px !important;
+}
+.announcement-post-title{
+    padding: 15px !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+}
+.announcement-post-text{
+    padding: 0px 15px 15px 15px !important;
+    font-size: 12px !important;
+}

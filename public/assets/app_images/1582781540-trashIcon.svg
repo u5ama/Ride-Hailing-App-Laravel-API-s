@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;opacity:0}.cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="trash_Icon" data-name="trash Icon" transform="translate(-285 -17)">
+        <path id="Rectangle_1862" d="M0 0h32v32H0z" class="cls-1" data-name="Rectangle 1862" transform="translate(285 17)"/>
+        <g id="Group_3602" data-name="Group 3602" transform="translate(-94.18 -555.492)">
+            <path id="Path_12961" d="M402.378 599.539H387.6l-1.378-19.008h17.529z" class="cls-2" data-name="Path 12961"/>
+            <path id="Line_64" d="M0 0h21.621" class="cls-2" data-name="Line 64" transform="translate(384.18 580.531)"/>
+            <path id="Path_12962" d="M397.226 577.492h-4.471l-.992 3.038h6.455z" class="cls-2" data-name="Path 12962"/>
+            <path id="Line_65" d="M0 0v12.828" class="cls-2" data-name="Line 65" transform="translate(395 583.583)"/>
+            <path id="Line_66" d="M.854 0L0 12.828" class="cls-2" data-name="Line 66" transform="translate(398.7 583.583)"/>
+            <path id="Line_67" d="M0 0l.854 12.828" class="cls-2" data-name="Line 67" transform="translate(390.446 583.583)"/>
+        </g>
+    </g>
+</svg>

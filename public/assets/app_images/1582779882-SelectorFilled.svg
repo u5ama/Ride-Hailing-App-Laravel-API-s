@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Selector_Filled" width="23" height="23" data-name="Selector Filled" viewBox="0 0 23 23">
+    <defs>
+        <style>
+            .cls-1{fill:#0672ba}.cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px}.cls-3,.cls-4{stroke:none}.cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="Base" class="cls-1">
+        <path d="M11.5 22.5c-2.938 0-5.7-1.144-7.778-3.222A10.928 10.928 0 0 1 .5 11.5c0-2.938 1.144-5.7 3.222-7.778A10.928 10.928 0 0 1 11.5.5c2.938 0 5.7 1.144 7.778 3.222A10.928 10.928 0 0 1 22.5 11.5c0 2.938-1.144 5.7-3.222 7.778A10.928 10.928 0 0 1 11.5 22.5z" class="cls-3"/>
+        <path d="M11.5 1C5.71 1 1 5.71 1 11.5S5.71 22 11.5 22 22 17.29 22 11.5 17.29 1 11.5 1m0-1C17.851 0 23 5.149 23 11.5S17.851 23 11.5 23 0 17.851 0 11.5 5.149 0 11.5 0z" class="cls-4"/>
+    </g>
+    <path id="Check_Mark" d="M1 5.823L4.3 8.9 10.02 1" class="cls-2" data-name="Check Mark" transform="translate(5.9 6.552)"/>
+</svg>

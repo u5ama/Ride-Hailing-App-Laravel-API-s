@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="map-pin" width="17" height="20.778" viewBox="0 0 17 20.778">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round}.cls-2,.cls-4{fill:#0672ba}.cls-3,.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Path_9" class="cls-1" data-name="Path 9">
+        <path d="M20 9.5c0 6.611-8.5 12.278-8.5 12.278S3 16.111 3 9.5a8.5 8.5 0 1 1 17 0z" class="cls-3" transform="translate(-3 -1)"/>
+        <path d="M11.5 3A6.507 6.507 0 0 0 5 9.5c0 2.735 1.984 5.418 3.65 7.187a26.755 26.755 0 0 0 2.85 2.602 26.75 26.75 0 0 0 2.85-2.602C16.017 14.917 18 12.235 18 9.5 18 5.916 15.084 3 11.5 3m0-2A8.5 8.5 0 0 1 20 9.5c0 6.611-8.5 12.278-8.5 12.278S3 16.11 3 9.5A8.5 8.5 0 0 1 11.5 1z" class="cls-4" transform="translate(-3 -1)"/>
+    </g>
+    <circle id="Ellipse_3" cx="2.833" cy="2.833" r="2.833" class="cls-2" data-name="Ellipse 3" transform="translate(5.667 5.667)"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#0672ba;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Back_Icon" data-name="Back Icon" transform="rotate(180 154.5 20.5)">
+        <path id="prefix__Rectangle_1862" d="M0 0H24V24H0z" data-name="Rectangle 1862" transform="translate(285 17)" style="fill:#fff;opacity:0"/>
+        <g id="prefix__Back_arrow" data-name="Back arrow" transform="translate(289.5 23)">
+            <path id="prefix__Path_130" d="M287.436 64.3l-6.092 6.092 6.092 6.092" class="prefix__cls-2" data-name="Path 130" transform="translate(-281.344 -64.303)"/>
+            <path id="prefix__Path_131" d="M281.344 76.592h15.266" class="prefix__cls-2" data-name="Path 131" transform="translate(-281.344 -70.501)"/>
+        </g>
+    </g>
+</svg>

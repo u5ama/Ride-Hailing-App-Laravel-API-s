@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.742" height="207.206" viewBox="0 0 53.742 207.206">
+    <defs>
+        <style>
+            .cls-1,.cls-5{fill:none;stroke-linecap:round}.cls-1{stroke:#505050}.cls-2{fill:#494949}.cls-3{fill:#fff}.cls-4{fill:#4b4b4b}.cls-5{stroke:#b2b2b2;opacity:.333}
+        </style>
+    </defs>
+    <g id="spider_2" data-name="spider 2" transform="translate(.707 .5)">
+        <path id="Path_40" d="M318.13 218.8c0 4.922 3.352 15.777 7.666 16.564" class="cls-1" data-name="Path 40" transform="translate(-284.929 -30)"/>
+        <path id="Path_40_Copy_2" d="M322.6 214.7c2.387 4.305 10.581 12.174 14.735 10.771" class="cls-1" data-name="Path 40 Copy 2" transform="translate(-284.929 -30)"/>
+        <path id="Path_40_Copy_3" d="M306.175 214.484c-4.8 1.107-18.082-2.252-21.246-5.6" class="cls-1" data-name="Path 40 Copy 3" transform="translate(-284.929 -30)"/>
+        <path id="Path_40_Copy" d="M308.679 218.118c1.191 4.776.564 16.119-3.431 17.926" class="cls-1" data-name="Path 40 Copy" transform="translate(-284.929 -30)"/>
+        <path id="Star_2" d="M314.5 225.822l1.569 3.118 1.075-3.321 2.027 2.842.555-3.446 2.437 2.5.023-3.49 2.79 2.1-.51-3.453 3.077 1.647-1.031-3.335 3.293 1.158-1.529-3.142 3.431.642-1.989-2.868 3.489.111-2.4-2.531 3.465-.423-2.762-2.134 3.359-.947-3.055-1.687 3.176-1.449-3.277-1.2 2.917-1.916-3.422-.687 2.59-2.339-3.487-.157 2.2-2.707-3.47.378 1.764-3.012-3.372.9 1.283-3.246-3.194 1.407.773-3.4-2.942 1.878.244-3.482-2.621 2.3-.29-3.478-2.238 2.678-.818-3.393-1.8 2.988L314.5 188l-1.326 3.229-1.8-2.988-.818 3.393-2.238-2.678-.29 3.478-2.621-2.3.244 3.482-2.942-1.878.773 3.4-3.194-1.407 1.283 3.246-3.371-.9 1.764 3.012-3.47-.378 2.2 2.707-3.487.157 2.59 2.339-3.422.687 2.917 1.916-3.277 1.2 3.175 1.449-3.055 1.688 3.359.947-2.762 2.134 3.465.423-2.4 2.531 3.488-.111-1.989 2.868 3.431-.642-1.528 3.138 3.293-1.158-1.031 3.335 3.077-1.647-.51 3.453 2.79-2.1.023 3.49 2.437-2.5.556 3.446 2.027-2.842 1.075 3.321z" class="cls-2" data-name="Star 2" transform="translate(-284.929 -30)"/>
+        <g id="Group_6" data-name="Group 6" transform="translate(29.071 173)">
+            <circle id="Oval_3" cx="6" cy="6" r="6" class="cls-3" data-name="Oval 3"/>
+            <circle id="Oval_3_Copy" cx="2.5" cy="2.5" r="2.5" class="cls-4" data-name="Oval 3 Copy" transform="translate(2 2)"/>
+        </g>
+        <g id="Group_6_Copy" data-name="Group 6 Copy" transform="translate(13.071 173)">
+            <circle id="Oval_3-2" cx="6" cy="6" r="6" class="cls-3" data-name="Oval 3"/>
+            <circle id="Oval_3_Copy-2" cx="2.5" cy="2.5" r="2.5" class="cls-4" data-name="Oval 3 Copy" transform="translate(2 2)"/>
+        </g>
+        <path id="Line" d="M0 0v158" class="cls-5" transform="translate(26.071)"/>
+    </g>
+</svg>

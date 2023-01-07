@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Food_Icon" width="30" height="30" data-name="Food Icon" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <rect id="prefix__Rectangle_1852" width="30" height="30" data-name="Rectangle 1852" rx="10" style="fill:#0672ba"/>
+    <g id="prefix__COVERED2" transform="translate(8 7)">
+        <g id="prefix__Group_3311" data-name="Group 3311" transform="translate(8.509 .317)">
+            <path id="prefix__Path_12984" d="M468.4 1222.022c-1.559 0-2.823 1.669-2.823 3.728a3.838 3.838 0 0 0 1.821 3.482c0 .007-.006.013-.008.02h.049a2.218 2.218 0 0 0 .961.226c1.559 0 2.823-1.669 2.823-3.728s-1.26-3.728-2.823-3.728z" class="prefix__cls-2" data-name="Path 12984" transform="translate(-465.581 -1222.022)"/>
+            <path id="prefix__Path_12985" d="M469.82 1248.811a.687.687 0 0 0 .685.685h.62a.687.687 0 0 0 .685-.685v-7.211h-1.99z" class="prefix__cls-2" data-name="Path 12985" transform="translate(-468.023 -1233.305)"/>
+        </g>
+        <g id="prefix__Group_3312" data-name="Group 3312">
+            <path id="prefix__Path_12986" d="M451.63 1221.958h-.036a.622.622 0 0 0-.621.62v2.229c0 .02 0 .039.006.059h-.572v-2.953a.638.638 0 1 0-1.276 0v2.953h-.578v-2.953a.638.638 0 1 0-1.276 0v2.953h-.51v-2.313a.628.628 0 0 0-.624-.627h-.025a.628.628 0 0 0-.627.625v2.315a3.377 3.377 0 0 0 6.743 0c0-.02.006-.039.006-.059v-2.229a.622.622 0 0 0-.61-.62z" class="prefix__cls-2" data-name="Path 12986" transform="translate(-445.504 -1221.274)"/>
+            <path id="prefix__Path_12987" d="M450.952 1247.49a.777.777 0 0 0 .774.775h.581a.777.777 0 0 0 .774-.775v-8.072h-2.129z" class="prefix__cls-2" data-name="Path 12987" transform="translate(-448.643 -1231.728)"/>
+        </g>
+    </g>
+</svg>

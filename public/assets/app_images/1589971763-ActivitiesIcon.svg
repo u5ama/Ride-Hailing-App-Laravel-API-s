@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Activities_Icon" width="35" height="35" data-name="Activities Icon" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <rect id="prefix__Rectangle_1852" width="35" height="35" data-name="Rectangle 1852" rx="10" style="fill:#0672ba"/>
+    <g id="prefix__Group_3317" data-name="Group 3317" transform="translate(-70.522 7.056)">
+        <path id="prefix__Path_12990" d="M206.275 3.206a15.481 15.481 0 00.252 8.81l1.081 3.3h.535l1.076-3.286a15.479 15.479 0 00.245-8.835l-.841-3.148.038-.01a8.369 8.369 0 00-1.544 0z" class="prefix__cls-2" data-name="Path 12990" transform="translate(-120.236)"/>
+        <path id="prefix__Path_12991" d="M293.827 10.247a5.831 5.831 0 00-2.318-3.891 8.493 8.493 0 00-3.186-1.466l.728 2.726a16.5 16.5 0 01-.261 9.415L287.817 20h.785l4.085-5.369a5.831 5.831 0 001.14-4.384z" class="prefix__cls-2" data-name="Path 12991" transform="translate(-198.839 -4.683)"/>
+        <path id="prefix__Path_12992" d="M201.633 388.807H201a.51.51 0 00.018-.134v-.451a.509.509 0 00-1.019 0v.451a.508.508 0 00.018.134h-.63l-.166-1.381H198.2l.187 1.553a.813.813 0 00-.316.644v2.241a.815.815 0 00.815.815h3.255a.815.815 0 00.815-.815v-2.241a.813.813 0 00-.316-.644l.187-1.553H201.8z" class="prefix__cls-2" data-name="Path 12992" transform="translate(-112.875 -371.091)"/>
+        <path id="prefix__Path_12993" d="M85.322 17.065a16.5 16.5 0 01-.268-9.389l.726-2.737A8.492 8.492 0 0082.6 6.4a5.873 5.873 0 00-1.178 8.275l4.085 5.369h.79z" class="prefix__cls-2" data-name="Path 12993" transform="translate(0 -4.732)"/>
+    </g>
+</svg>

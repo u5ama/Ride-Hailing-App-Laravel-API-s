@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="More_Icon" width="5" height="19" data-name="More Icon" viewBox="0 0 5 19">
+    <defs>
+        <style>
+            .cls-1{fill:#0672ba}
+        </style>
+    </defs>
+    <circle id="Ellipse_389" cx="2.5" cy="2.5" r="2.5" class="cls-1" data-name="Ellipse 389"/>
+    <circle id="Ellipse_390" cx="2.5" cy="2.5" r="2.5" class="cls-1" data-name="Ellipse 390" transform="translate(0 7)"/>
+    <circle id="Ellipse_391" cx="2.5" cy="2.5" r="2.5" class="cls-1" data-name="Ellipse 391" transform="translate(0 14)"/>
+</svg>

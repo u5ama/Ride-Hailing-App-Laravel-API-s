@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.094" height="14.037" viewBox="0 0 14.094 14.037">
+    <g id="prefix__Arrow" transform="translate(.5)">
+        <path id="prefix__Rectangle_1875" d="M0 0H1V1H0z" data-name="Rectangle 1875" transform="rotate(-90 .25 .75)" style="fill:#fff;opacity:0"/>
+        <path id="prefix__Bounds" d="M0 0h11.535v12.037H0z" transform="translate(2.059 2)" style="fill-rule:evenodd;fill:none"/>
+        <path id="prefix__Chevron" d="M4.326 5.589L0 1.075 1.03 0l5.358 5.589-5.358 5.588L0 10.1z" transform="translate(5.56 2.43)" style="fill:#7b8591;fill-rule:evenodd"/>
+    </g>
+</svg>

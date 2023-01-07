@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Shopping_Icon" width="35" height="35" data-name="Shopping Icon" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <rect id="prefix__Rectangle_1852" width="35" height="35" data-name="Rectangle 1852" rx="10" style="fill:#0672ba"/>
+    <g id="prefix__Group_3319" data-name="Group 3319" transform="translate(-159.854 -16)">
+        <path id="prefix__Path_12994" d="M186.033 32H168v10.521a1.507 1.507 0 001.5 1.5h15.029a1.507 1.507 0 001.5-1.5z" class="prefix__cls-2" data-name="Path 12994" transform="translate(0 -1.988)"/>
+        <path id="prefix__Path_12995" d="M178.507 25.5a3.006 3.006 0 013.006 3.006h1.5a4.509 4.509 0 00-9.018 0h1.5a3.007 3.007 0 013.012-3.006z" class="prefix__cls-2" data-name="Path 12995" transform="translate(-1.491)"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;opacity:0}.cls-2{fill:#0672ba}
+        </style>
+    </defs>
+    <g id="Side_Icon" data-name="Side Icon" transform="translate(-285 -17)">
+        <path id="Rectangle_1862" d="M0 0h32v32H0z" class="cls-1" data-name="Rectangle 1862" transform="translate(285 17)"/>
+        <g id="More_Icon" data-name="More Icon" transform="translate(-54 -34)">
+            <circle id="Ellipse_389" cx="3" cy="3" r="3" class="cls-2" data-name="Ellipse 389" transform="translate(352 55)"/>
+            <circle id="Ellipse_390" cx="3" cy="3" r="3" class="cls-2" data-name="Ellipse 390" transform="translate(352 64)"/>
+            <circle id="Ellipse_391" cx="3" cy="3" r="3" class="cls-2" data-name="Ellipse 391" transform="translate(352 73)"/>
+        </g>
+    </g>
+</svg>
